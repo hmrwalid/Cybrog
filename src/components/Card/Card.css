@@ -1,0 +1,20 @@
+.most-card-item{
+    flex: 1;
+    border: solid red;
+    border-radius: var(--border-radius-primary);
+    background-color: var(--color-dark);
+    border-radius:calc(var(--border-radius-primary)/2) ;
+    padding: calc(var(--padding-pramiry)/2);
+    margin: calc(var(--margin-primary)/5);
+}
+  
+
+.most-item-img{
+    width: 100%;
+    border-radius: var(--border-radius-primary);
+    margin-bottom: var(--margin-primary)
+}
+.card-content{
+    display: flex;
+    justify-content: space-between;
+}

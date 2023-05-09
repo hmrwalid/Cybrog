@@ -1,0 +1,17 @@
+.section-wrapper{
+    background-color: var(--color-darkest);
+    color: var( --color-light);
+    border-radius: var(--border-radius-primary);
+    padding: var(--padding-pramiry);
+    margin-top: var(--margin-primary);
+}
+.most-wrap-Items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.most-wrap-Header h4{
+    font-size: 36px;
+    font-weight: var(--font-weight-bold);
+}

@@ -1,0 +1,15 @@
+.nav{
+        margin-left: 30%;
+        /* border: solid red; */
+        min-height: 100px;
+}
+
+.search{
+    /* border: solid red; */
+    display: flex;
+    margin-left: 10px;
+
+}
+.btn{
+    margin: 5px;
+}
